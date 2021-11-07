@@ -84,13 +84,15 @@ class About extends Component {
                     <br />
                     <br />
                     <br />
-                    <a href="/Jang_William_resume.pdf" download style={{ fontSize: "15px" }}>
+                    <a href="/Jang_William_resume.pdf" download style={{ fontSize: "14px" }}>
                       Resume
                     </a>
                     <br />
-                    <a href="mailto:williamjang@gmail.com" style={{ fontSize: "15px" }}>
-                      Email
-                    </a>
+                    <p style={{ fontSize: "14px" }}>Email:
+                      <a href="mailto:williamjang@gmail.com">
+                        williamhjang@gmail.com
+                      </a>
+                    </p>
                   </div>
                 </div>
               </div>

@@ -13,7 +13,6 @@ class Experience extends Component {
       var work = this.props.resumeExperience.map(function (work, i) {
         const technologies = work.technologies;
         const mainTechnologies = work.mainTech;
-        const location = work.location;
 
         var mainTech = mainTechnologies.map((technology, i) => {
           return (
@@ -38,7 +37,7 @@ class Experience extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fas fa-briefcase experience-icon"></i>}
+            icon={<i className={`fas ${work.icon} experience-icon`}></i>}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>
