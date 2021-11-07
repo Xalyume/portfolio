@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi Welcome to my Site!",
-      "description": "My name is William Jang! I am a software engineer born and raised in New Jersey. I've loved technology since an early age and early in 2021, I decided take my love to the next level by pursuing a career in tech through software developement. I have experience working with Javascipt and Python, and have created projects using popular frameworks such as React, Express, Node and Flask. A budding mechanical keyboard enthusiast and sneakerhead.",
+      "description": "안녕하세요!(Hello!) My name is William Jang! I am a software engineer born and raised in New Jersey. Since childhood, I've had an interest in technology. Being a gamer and someone who is spends alot of time on the computer, I've also always appreciated software, and software engineering as a field and art form. Early in 2021, I decided to take my interest to the next level by pursuing a career in tech through software development. I have experience working with JavaScipt and Python, and have created projects using popular frameworks such as React, Express, Node and Flask. A budding mechanical keyboard enthusiast and sneakerhead.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -108,8 +108,9 @@
         "location": "Online",
         "mainTech": [
         ],
-        "technologies": ["Full-time 1000-hr software development online course."
-        ]
+        "technologies": [
+        ],
+        "icon": "fa-graduation-cap"
       },
       {
         "company": "LG CNS",
@@ -118,8 +119,9 @@
         "location": "Englewood Cliffs, NJ",
         "mainTech": [
         ],
-        "technologies": ["Maintained over 1000+ lines including those used by test teams.", "Deployed mobile devices for LGEUS Employees and VIPs."
-        ]
+        "technologies": [
+        ],
+        "icon": "fa-briefcase"
       },
       {
         "company": "Noah Bank",
@@ -128,18 +130,20 @@
         "location": "Palisades Park, NJ",
         "mainTech": [
         ],
-        "technologies": ["Assisted users in deposits, and withdrawls totaling $100,000+ weekly."
-        ]
+        "technologies": [
+        ],
+        "icon": "fa-briefcase"
       },
       {
         "company": "Drexel University",
-        "title": "Bachelors of Science Music Industry",
+        "title": "Bachelors of Science in Music Industry",
         "years": "09.2011 - 06.2016",
         "location": "Philadelphia, PA",
         "mainTech": [
-      ],
-      "technologies": ["Minor in Business Administration"
-        ]
+        ],
+        "technologies": [
+        ],
+        "icon": "fa-graduation-cap"
       }
     ]
   }
