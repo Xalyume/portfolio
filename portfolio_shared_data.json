@@ -1,0 +1,68 @@
+{
+    "basic_info": {
+      "name": "William Jang",
+      "titles": "Software Engineer",
+      "social": [
+        {
+          "name": "Github",
+          "url": "https://github.com/xalyume",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/william-h-jang/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "Angel's List",
+          "url": "https://angel.co/u/william-jang-1",
+          "class": "fab fa-angellist"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "75"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "85"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original",
+          "level": "85"
+        },
+        {
+          "name": "Node",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
+        },
+        {
+          "name": "Postgres",
+          "class": "devicon-postgresql-plain",
+          "level": "85"
+        }
+      ]
+    }
+  }

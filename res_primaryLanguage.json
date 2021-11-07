@@ -1,0 +1,125 @@
+{
+    "basic_info": {
+      "description_header": "Hi Welcome to my Site!",
+      "description": "My name is William Jang! I am a software engineer born and raised in New Jersey. I've loved technology since an early age and early in 2021, I decided take my love to the next level by pursuing a career in tech through software developement. I have experience working with Javascipt and Python, and have created projects using popular frameworks such as React, Express, Node and Flask. A budding mechanical keyboard and sneakerhead.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Unslic'd",
+        "startDate": "2021",
+        "description": "A clone based off of the Untapp'd with a twist by basing it off of pizza. Users are able to create stores and types of pizza slices and check-in.",
+        "images": [
+          "images/portfolio/unslicd/unslicd_home_page.png",
+          "images/portfolio/unslicd/unslicd_user_page.png"
+        ],
+        "live": "https://unslicd.herokuapp.com/",
+        "github": "https://github.com/Xalyume/unslicd",
+        "technologies": [
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "Postgres"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
+          }
+        ]
+      },
+      {
+        "title": "Cleanstagram",
+        "startDate": "2021",
+        "description": "A clone based off of Instagram. User's are able to add posts, add comments, and like and follow other users.",
+        "images": [
+          "images/portfolio/cleanstagram/cleanstagram_home_page.png",
+          "images/portfolio/cleanstagram/cleanstagram_user_page.png",
+          "images/portfolio/cleanstagram/cleanstagram_image_page.png"
+        ],
+        "live": "https://cleanstagram.herokuapp.com/",
+        "github": "https://github.com/kennethmanhonglee/cleanstagram",
+        "technologies": [
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "Postgres"
+          },
+          {
+            "class": "devicon-flask-original",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
+          }
+        ]
+      },
+      {
+        "title": "Nimbus Noise",
+        "startDate": "2021",
+        "description": "The encapsulation of my time spent at App Academy. My capstone, Nimbus Noise, is based off of SoundCloud and is a site that lets users create their own albums and upload their own songs, as well as listen to and leave comments on other people's songs. In addition to the stack mentioned below, utilizes an AWS bucket to allow for users to directly upload songs from their computer.",
+        "images": [
+          "images/portfolio/nimbus-noise/nimbus_noise_home_page.png",
+          "images/portfolio/nimbus-noise/nimbus_noise_user_page.png",
+          "images/portfolio/nimbus-noise/nimbus_noise_song_page.png"
+        ],
+        "live": "https://nimbusnoise.herokuapp.com/",
+        "github": "https://github.com/Xalyume/nimbusnoise",
+        "technologies": [
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "Postgres"
+          },
+          {
+            "class": "devicon-flask-original",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "LG CNS",
+        "title": "Corporate Wireless Management",
+        "years": "08.2018 - 05.2021",
+        "location": "Englewood Cliffs, NJ",
+        "mainTech": [
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "company": "Noah Bank",
+        "title": "Personal Financial Representative",
+        "years": "11.2016 - 07.2018",
+        "location": "Palisades Park, NJ",
+        "mainTech": [
+        ],
+        "technologies": [
+        ]
+      }
+    ]
+  }
