@@ -1,12 +1,12 @@
 {
     "basic_info": {
       "description_header": "Hi Welcome to my Site!",
-      "description": "My name is William Jang! I am a software engineer born and raised in New Jersey. I've loved technology since an early age and early in 2021, I decided take my love to the next level by pursuing a career in tech through software developement. I have experience working with Javascipt and Python, and have created projects using popular frameworks such as React, Express, Node and Flask. A budding mechanical keyboard and sneakerhead.",
+      "description": "My name is William Jang! I am a software engineer born and raised in New Jersey. I've loved technology since an early age and early in 2021, I decided take my love to the next level by pursuing a career in tech through software developement. I have experience working with Javascipt and Python, and have created projects using popular frameworks such as React, Express, Node and Flask. A budding mechanical keyboard enthusiast and sneakerhead.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
-        "experience": "Experience"
+        "experience": "Education & Experience"
       }
     },
     "projects": [
@@ -102,13 +102,23 @@
     ],
     "experience": [
       {
+        "company": "App Academy",
+        "title": "24 Week Software Engineering Immersive",
+        "years": "05.2021 - 11.2021",
+        "location": "Online",
+        "mainTech": [
+        ],
+        "technologies": ["Full-time 1000-hr software development online course."
+        ]
+      },
+      {
         "company": "LG CNS",
         "title": "Corporate Wireless Management",
         "years": "08.2018 - 05.2021",
         "location": "Englewood Cliffs, NJ",
         "mainTech": [
         ],
-        "technologies": [
+        "technologies": ["Maintained over 1000+ lines including those used by test teams.", "Deployed mobile devices for LGEUS Employees and VIPs."
         ]
       },
       {
@@ -118,7 +128,17 @@
         "location": "Palisades Park, NJ",
         "mainTech": [
         ],
-        "technologies": [
+        "technologies": ["Assisted users in deposits, and withdrawls totaling $100,000+ weekly."
+        ]
+      },
+      {
+        "company": "Drexel University",
+        "title": "Bachelors of Science Music Industry",
+        "years": "09.2011 - 06.2016",
+        "location": "Philadelphia, PA",
+        "mainTech": [
+      ],
+      "technologies": ["Minor in Business Administration"
         ]
       }
     ]
