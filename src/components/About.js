@@ -26,7 +26,8 @@ class About extends Component {
               <div className="polaroid">
                 <span style={{ cursor: "auto" }}>
                   <img
-                    height="210px"
+                    height="220px"
+                    width="100%"
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
@@ -83,16 +84,9 @@ class About extends Component {
                     {about}
                     <br />
                     <br />
-                    <br />
                     <a href="/Jang_William_resume.pdf" download style={{ fontSize: "14px" }}>
                       Resume
                     </a>
-                    <br />
-                    <p style={{ fontSize: "14px" }}>Email:
-                      <a href="mailto:williamjang@gmail.com">
-                        williamhjang@gmail.com
-                      </a>
-                    </p>
                   </div>
                 </div>
               </div>
