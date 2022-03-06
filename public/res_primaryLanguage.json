@@ -102,6 +102,17 @@
     ],
     "experience": [
       {
+      	"company": "Clearnomics",
+	"title": "Software Engineer",
+	"years": "02.2022 - Current",
+	"location": "New York, NY",
+        "mainTech": [
+        ],
+        "technologies": [
+        ],
+        "icon": "fa-briefcase"
+      },	    
+      {
         "company": "App Academy",
         "title": "24 Week Software Engineering Immersive",
         "years": "05.2021 - 11.2021",
